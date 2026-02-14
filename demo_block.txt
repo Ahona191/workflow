@@ -1,0 +1,2 @@
+This commit should NOT be allowed directly on main branch.
+Branch protection is active.
